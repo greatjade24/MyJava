@@ -27,5 +27,4 @@ public class B1712 {
 			System.out.println(num);
 		}
 	}
-
 }
