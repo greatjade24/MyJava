@@ -120,5 +120,7 @@ $RECYCLE.BIN/
 *.lnk
 
 .metadata/
+MyJava/.classpath
+MyJava/.project
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,java,eclipse
